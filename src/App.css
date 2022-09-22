@@ -34,5 +34,10 @@
   }
   to {
     transform: rotate(360deg);
-  }
+  } 
+}
+
+@font-face {
+  font-family: Clod;
+  src: url("./fonts/clod.TTF");
 }
