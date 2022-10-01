@@ -6,6 +6,10 @@ const Banner = () => {
     <div>
       <div className="banner"></div>
 
+
+
+      
+
     </div>
   )
 }
